@@ -94,7 +94,7 @@ As a [Student], I want [Search for specific clubs] so that [I can find a club th
 
 As a [user] I want [a last meeting date] so that [I can see if a club is still active] 
 
-As a [club leader] I want [an introduction document] so that [when we collab with another club, we get a brief rundown of what their club does/what it’s like] 
+As a [club leader] I want [an introduction document] so that [when we collab with another club, we get a brief rundown of what their club does/what it is like] 
 
  
 
