@@ -94,7 +94,7 @@ As a [Student], I want [Search for specific clubs] so that [I can find a club th
 
 As a [user] I want [a last meeting date] so that [I can see if a club is still active] 
 
-As a [club leader] I want [an introduction document] so that [when we collab with another club, we get a brief rundown of what their club does/what it is like] 
+As a [club leader] I want [a brief description of the club] so that [when we collab with another club, we get a brief rundown of what their club does/what it is like] 
 
  
 
@@ -106,7 +106,9 @@ As a [club officer] I want [an action] so that [a benefit/a value] so that
 
 ### Raymond Pridgen
 
- 
+As a [club officer] I want [to manage my schedule with another club's] so that [I can schedule cooperative meetings]
+
+As a [user] I want [to see documents shared from another club] so that [I can stay updated with my club and the collaborated club.]
 
  
 
@@ -115,3 +117,23 @@ As a [club officer] I want [an action] so that [a benefit/a value] so that
 If we meet in person, we will meet at 12pm to 1pm on Monday and Friday in either: 
 The library 
 First floor of Smith (Room 111) 
+
+
+
+# Data Types
+
+### Club
+- Users
+- Active
+- Tags
+- Events
+- Calendar
+- Documents
+- Chat
+
+### User
+- Clubs
+- Role
+- Documents
+- Availability
+
