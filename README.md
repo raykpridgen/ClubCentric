@@ -106,7 +106,9 @@ As a [club officer] I want [an action] so that [a benefit/a value] so that
 
 ### Raymond Pridgen
 
- 
+As a [club officer] I want [to manage my schedule with another club's] so that [I can schedule cooperative meetings]
+
+As a [user] I want [to see documents shared from another club] so that [I can stay updated with my club and the collaborated club.]
 
  
 
