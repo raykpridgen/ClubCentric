@@ -117,3 +117,23 @@ As a [user] I want [to see documents shared from another club] so that [I can st
 If we meet in person, we will meet at 12pm to 1pm on Monday and Friday in either: 
 The library 
 First floor of Smith (Room 111) 
+
+
+
+# Data Types
+
+### Club
+- Users
+- Active
+- Tags
+- Events
+- Calendar
+- Documents
+- Chat
+
+### User
+- Clubs
+- Role
+- Documents
+- Availability
+
