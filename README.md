@@ -137,3 +137,5 @@ First floor of Smith (Room 111)
 - Documents
 - Availability
 
+## Calendar
+
